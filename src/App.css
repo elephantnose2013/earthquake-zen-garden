@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  border: 0;
+}
+
+.bolded{
+  font-weight: bold;
+}
+
+caption{
+  font-weight: bold;
+  font-size: 150%;
+  white-space: nowrap;
+}
+
+h1{
+  text-align: center;
+  padding-top: 20px;
+}
+
+nav{
+  background-color: rgb(237, 237, 237);
+  height:200px;
+}
+
+td{
+  padding: 5px 10px;
+}
+
+table {
+  margin: 30px auto;
+}
+
+
